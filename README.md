@@ -15,6 +15,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/https://twitter.com/alAmeer170)
-![GitHub followers](https://img.shields.io/github/followers/:ameer017)
+![GitHub followers](https://img.shields.io/github/followers/:https://github.com/ameer017/)
 
 
