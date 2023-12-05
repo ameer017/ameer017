@@ -8,3 +8,9 @@
 - 💬 Ask me about MERN stack development, RESTful APIs, or deploying applications on platforms like Netlify or Vercel.
 - 📫 How to reach me: rajiabdullahi907@gmail.com || https://ameerportfoliosite.netlify.app/
 - 😄 Pronouns: He/Him
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
