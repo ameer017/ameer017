@@ -14,7 +14,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/https://twitter.com/alAmeer170)
-![GitHub followers](https://img.shields.io/github/followers/:https://github.com/ameer017/)
 
 
