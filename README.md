@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on open-source projects related to MERN stack development or innovative web applications.
 - 🤔 I’m looking for help with optimizing MongoDB queries and implementing scalable solutions in Node.js.
 - 💬 Ask me about MERN stack development, RESTful APIs, or deploying applications on platforms like Netlify or Vercel.
-- 📫 How to reach me: rajiabdullahi907@gmail.com or https://ameerportfoliosite.netlify.app/
+- 📫 How to reach me: rajiabdullahi907@gmail.com || https://ameerportfoliosite.netlify.app/
 - 😄 Pronouns: He/Him
