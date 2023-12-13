@@ -1,4 +1,4 @@
-### Hi there, I'm Abdullah Al Ameer! 👋
+### Hi 👋🏼, I'm Abdullah Al Ameer! 
 
 - 🔭 I’m currently working on building robust web applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
 - 🌱 I’m currently learning advanced React patterns and optimizing backend performance in Node.js.
