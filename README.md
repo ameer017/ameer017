@@ -5,7 +5,7 @@
 - 💡 I'm currently learning to write smart contract with solidity.
 - 👯 I’m looking to collaborate on open-source projects related to MERN stack development or innovative web applications.
 - 🤔 I’m looking for help with optimizing MongoDB queries and implementing scalable solutions in Node.js.
-- 📫 How to reach me: rajiabdullahi907@gmail.com || https://ameerportfoliosite.netlify.app/
+- 📫 How to reach me: rajiabdullahi907@gmail.com || https://ameerportfoliosite.netlify.app/ || ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:alAmeer170)
 - 😄 Pronouns: He/Him
 
 
