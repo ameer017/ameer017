@@ -1,18 +1,42 @@
-### Hi 👋🏼, I'm Abdullah Al Ameer! 
+<h6 align="left">Hi 👋! My name is Abdullahi Raji Al Ameer and I'm a Software developer, from Nigeria</h6>
 
-- 🔭 I’m currently working on building robust web applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
-- 🌱 I’m currently learning advanced React patterns and optimizing backend performance in Node.js.
-- 💡 I'm currently learning to write smart contract with solidity.
-- 👯 I’m looking to collaborate on open-source projects related to MERN stack development or innovative web applications.
-- 🤔 I’m looking for help with optimizing MongoDB queries and implementing scalable solutions in Node.js.
-- 📫 How to reach me: rajiabdullahi907@gmail.com || https://ameerportfoliosite.netlify.app/ || ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/alAmeer170?style=social)
-- 😄 Pronouns: He/Him
+###
 
+<img align="right" height="150" src="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="https://www.instagram.com/a.rajiabdullahi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="ameer98_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="rajiabdullahi907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/alAmeer170" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
