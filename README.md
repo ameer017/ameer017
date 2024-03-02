@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullahi Raji</h1>
-<h3 align="center">A passionate Software developer from Nigeria</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer017&label=Profile%20views&color=0e75b6&style=flat" alt="ameer017" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ameer017](https://github.com/ameer017)
 
-- 💬 Ask me about **Javascript, Solidity**
+- 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **rajiabdullahi907@gmail.com**
+- 📫 How to reach me: **rajiabdullahi907@gmail.com**
 
 - 📄 Know about my experiences [https://ameerportfoliosite.netlify.app/](https://ameerportfoliosite.netlify.app/)
 
