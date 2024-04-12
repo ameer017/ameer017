@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer017" alt="ameer017" /></a> </p>
 
-- 🔭 I’m currently working on **Avocet ReFi Project**
+- 🔭 I’m currently working on **Web3 based products**
 
-- 🌱 I’m currently learning **Solidity, React, Express**
+- 🌱 I’m currently learning **Solidity, React, Express, Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ameer017](https://github.com/ameer017)
 
