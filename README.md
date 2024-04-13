@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer017" alt="ameer017" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 based products**
+- 🔭 I’m currently working on **Web3 based products.**
 
 - 🌱 I’m currently learning **Solidity, React, Express, Nextjs**
 
