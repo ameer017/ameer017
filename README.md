@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **rajiabdullahi907@gmail.com**
 
-- 📄 Know about my experiences [https://ameerportfoliosite.netlify.app/](https://ameerportfoliosite.netlify.app/)
+- 📄 Know about my experiences [https://ameer-portfolio-website.vercel.app/](https://ameer-portfolio-website.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
