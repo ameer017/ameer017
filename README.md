@@ -23,7 +23,7 @@
 <a href="https://instagram.com/https://www.instagram.com/a.rajiabdullahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.rajiabdullahi/" height="30" width="40" /></a>
 </p>
 
-<a href="https://app.daily.dev/abdullahiraji"><img src="https://api.daily.dev/devcards/v2/ge70oIFos8evuYmEvWpY9.png?r=4gg&type=wide" width="652" alt="Abdullahi Raji's Dev Card"/></a>
+<a href="https://app.daily.dev/abdullahiraji"><img src="https://api.daily.dev/devcards/v2/ge70oIFos8evuYmEvWpY9.png?type=default&r=1h1" width="356" alt="Abdullahi Raji's Dev Card"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
