@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity, Reactjs, Express, Nextjs**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me anything about **Javascript**
 
 - 📫 How to reach me: **rajiabdullahi907@gmail.com**
 
