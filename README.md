@@ -21,9 +21,11 @@
 <a href="https://codepen.io/https://codepen.io/abdullahi-l-ameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abdullahi-l-ameer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raji-abdullahi-a-4598b42a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raji-abdullahi-a-4598b42a5/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/a.rajiabdullahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.rajiabdullahi/" height="30" width="40" /></a>
+
+  <a href="https://app.daily.dev/abdullahiraji"><img src="https://api.daily.dev/devcards/v2/ge70oIFos8evuYmEvWpY9.png?type=wide&r=af7" width="652" alt="Abdullahi Raji's Dev Card"/></a>
 </p>
 
-<a href="https://app.daily.dev/abdullahiraji"><img src="https://api.daily.dev/devcards/v2/ge70oIFos8evuYmEvWpY9.png?type=default&r=1h1" width="356" alt="Abdullahi Raji's Dev Card"/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
