@@ -17,17 +17,19 @@
 ---
 
 ### 🔗 Connect With Me  
+
 <p align="left">
-  <a href="https://codepen.io/abdullahi-l-ameer" target="blank">
+  <a href="https://codepen.io/abdullahi-l-ameer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/raji-abdullahi-a-4598b42a5/" target="blank">
+  <a href="https://www.linkedin.com/in/raji-abdullahi-a-4598b42a5/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/a.rajiabdullahi/" target="blank">
+  <a href="https://www.instagram.com/a.rajiabdullahi/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
+
 
 ---
 
