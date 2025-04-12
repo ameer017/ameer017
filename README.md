@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hey there, I'm Raji Abdullahi Al Ameer!</h1>
-<h3 align="center">A Passionate Software Developer | Web3 Builder | Tech Innovator</h3>
+<h1 align="center">Raji Abdullahi Al Ameer!</h1>
+<h3 align="center">Software Developer | Web3 Builder | Tech Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ameer017&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
