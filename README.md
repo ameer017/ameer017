@@ -23,7 +23,7 @@
 ```typescript
 const ameer = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Solidity", "GoLang"],
+  code: ["JavaScript", "TypeScript", "Solidity", "Python"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
@@ -33,12 +33,13 @@ const ameer = {
       js: ["Node.js", "Express", "Nest.js"],
       ts: ["TypeScript],
       go: ["GoLang"],
+      py: ["Python"]
     },
     databases: ["MongoDB", "MS SQL"],
     devOps: ["Digital Ocean", "SSH"],
-    blockchain: ["Solidity", "Web3.js", "Ethers.js"],
+    blockchain: ["Solidity"],
   },
-  currentFocus: "Building Web3 dApps that push boundaries 🚀",
+  currentFocus: "Hey Hi with Gen AI",
   funFact: "I debug with console.log() and I'm proud of it! 😄",
 };
 ```
