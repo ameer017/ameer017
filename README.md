@@ -23,7 +23,7 @@
 ```typescript
 const ameer = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Solidity", "Python"],
+  code: ["JavaScript", "TypeScript", "Python"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
@@ -31,7 +31,7 @@ const ameer = {
     },
     backEnd: {
       js: ["Node.js", "Express", "Nest.js"],
-      ts: ["TypeScript],
+      ts: ["TypeScript"],
       go: ["GoLang"],
       py: ["Python"]
     },
