@@ -37,7 +37,7 @@ const ameer = {
     },
     databases: ["MongoDB", "MS SQL"],
     devOps: ["Digital Ocean", "SSH"],
-    blockchain: ["Solidity"],
+    blockchain: ["Solidity", "Rust],
   },
   currentFocus: "Hey Hi with Gen AI",
   funFact: "I debug with console.log() and I'm proud of it! 😄",
@@ -46,8 +46,8 @@ const ameer = {
 
 <br/>
 
-📫 **Reach me at:** [rajiabdullahi907@gmail.com](mailto:rajiabdullahi907@gmail.com)  
-🌍 **Portfolio:** [ameer-portfolio-website.vercel.app](https://ameer-portfolio-website.vercel.app/)
+**Reach me at:** [rajiabdullahi907@gmail.com](mailto:rajiabdullahi907@gmail.com)  
+**Portfolio:** [ameer-portfolio-website.vercel.app](https://ameer-portfolio-website.vercel.app/)
 
 <br clear="both"/>
 
