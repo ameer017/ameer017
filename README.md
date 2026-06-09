@@ -37,7 +37,7 @@ const ameer = {
     },
     databases: ["MongoDB", "MS SQL"],
     devOps: ["Digital Ocean", "SSH"],
-    blockchain: ["Solidity", "Rust],
+    blockchain: ["Solidity", "Rust"],
   },
   currentFocus: "Hey Hi with Gen AI",
   funFact: "I debug with console.log() and I'm proud of it! 😄",
