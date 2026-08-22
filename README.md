@@ -16,35 +16,6 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```typescript
-const ameer = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Python"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "CSS3"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express", "Nest.js"],
-      ts: ["TypeScript"],
-      go: ["GoLang"],
-      py: ["Python"]
-    },
-    databases: ["MongoDB", "MS SQL"],
-    devOps: ["Digital Ocean", "SSH"],
-    blockchain: ["Solidity", "Rust"],
-  },
-  currentFocus: "Hey Hi with Gen AI",
-  funFact: "I debug with console.log() and I'm proud of it! 😄",
-};
-```
-
-<br/>
 
 **Reach me at:** [rajiabdullahi907@gmail.com](mailto:rajiabdullahi907@gmail.com)  
 **Portfolio:** [ameer-portfolio-website.vercel.app](https://ameer-portfolio-website.vercel.app/)
