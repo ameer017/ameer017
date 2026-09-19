@@ -14,11 +14,6 @@
   
 </div>
 
-<br/>
-
-
-[PORTFOLIO](https://www.alameer.site/)
-
 <br clear="both"/>
 
 ---
