@@ -18,7 +18,7 @@
 
 
 **Reach me at:** [rajiabdullahi907@gmail.com](mailto:rajiabdullahi907@gmail.com)  
-**Portfolio:** [ameer-portfolio-website.vercel.app](https://ameer-portfolio-website.vercel.app/)
+**Portfolio:** [PORTFOLIO](https://www.alameer.site/)
 
 <br clear="both"/>
 
