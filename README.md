@@ -17,8 +17,7 @@
 <br/>
 
 
-**Reach me at:** [rajiabdullahi907@gmail.com](mailto:rajiabdullahi907@gmail.com)  
-**Portfolio:** [PORTFOLIO](https://www.alameer.site/)
+[PORTFOLIO](https://www.alameer.site/)
 
 <br clear="both"/>
 
